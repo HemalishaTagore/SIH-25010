@@ -79,9 +79,7 @@ Useful for all farmers for improving their yield. Promotes organiv farming, redu
 ## Research and References
 ISRO SATELLITE DATA: https://www.isro.gov.in/AgricultureandSoil.html
 
-ICAR PEST DETECTION: http://www.icar-crida.res.in:8080/naip/leaffolder.jsp
-
-                     https://icar.org.in/
+ICAR PEST DETECTION: http://www.icar-crida.res.in:8080/naip/leaffolder.jsp, https://icar.org.in/
 
 ISRO BHUVAN API:     https://bhuvan.nrsc.gov.in/ngmaps?mode=Hybrid
 
