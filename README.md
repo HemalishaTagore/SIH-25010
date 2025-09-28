@@ -57,13 +57,16 @@ Features of AgriWeave AI:
 ## Technical Approach
 Technologies that I have used to build this AI featured app are:
 
- For voice and language support - whisper.ai, VoiceOver iOS, Flutter.
- For data blending and prediction - ISRO's Bhuvan API, GPS tracking system, and python.
- App design - Adobe XD, WhatsApp Business API integration.
- For Database and offline storage - SQLite, MongoDB, AWS S3, Firebase Realtime DB.
-For Architecture and Server Setuo - Node.js, Cloud Hosting.
+  For voice and language support - whisper.ai, VoiceOver iOS, Flutter.
 
-Flow Chart:
+  For data blending and prediction - ISRO's Bhuvan API, GPS tracking system, and python.
+ 
+  App design - Adobe XD, WhatsApp Business API integration.
+ 
+  For Database and offline storage - SQLite, MongoDB, AWS S3, Firebase Realtime DB.
+ 
+  For Architecture and Server Setuo - Node.js, Cloud Hosting.
+
 ![alt text](<Screenshot 2025-09-28 111915.png>)
 
 ## Feasibility and Viability
