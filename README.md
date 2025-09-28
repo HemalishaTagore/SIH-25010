@@ -67,7 +67,7 @@ Technologies that I have used to build this AI featured app are:
  
   For Architecture and Server Setuo - Node.js, Cloud Hosting.
 
-![alt text](<Screenshot 2025-09-28 111915.png>)
+![alt text](<Screenshot 2025-09-28 114710.png>)
 
 ## Feasibility and Viability
 90% of the features were made for offline use, so that everyone can utilize it well. 
