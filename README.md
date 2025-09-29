@@ -53,6 +53,8 @@ Features of AgriWeave AI:
  
   Progress controller: Monitors the grow of the crops and plants and also updates the result.
 
+![alt text](SIH-1.jpg)
+
 
 ## Technical Approach
 Technologies that I have used to build this AI featured app are:
@@ -67,7 +69,6 @@ Technologies that I have used to build this AI featured app are:
  
   For Architecture and Server Setuo - Node.js, Cloud Hosting.
 
-![alt text](SIH-1.jpg)
 
 ## Feasibility and Viability
 90% of the features were made for offline use, so that everyone can utilize it well. 
